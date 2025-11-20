@@ -1,6 +1,8 @@
 
 
 ## EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
+# Reg no:212224040243
+# Nmae : Prasanth T
 Aim:
 
 To write a C program to create a function to find the greatest number
